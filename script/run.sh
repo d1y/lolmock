@@ -1,0 +1,1 @@
+wget https://game.gtimg.cn/images/lol/act/img/js/heroList/hero_list.js
